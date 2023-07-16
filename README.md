@@ -7,5 +7,5 @@ Since i am preparing for jobs and interviews, i decided to do some projects that
 
 ## Projects available:
 
-+ `Pharmacutical DBMS` :- A DBMS for pharmacy units made using [`JFrame`](https://www.javatpoint.com/java-jframe#:~:text=JFrame%20class%20is%20a%20type,of%20setDefaultCloseOperation(int)%20method.) and mySQL
++ `Pharmacutical DBMS` :- A DBMS for pharmacy units made using [`JFrame`](https://www.javatpoint.com/java-jframe#:~:text=JFrame%20class%20is%20a%20type,of%20setDefaultCloseOperation(int)%20method.) and [`PostgreSQL`](https://www.postgresqltutorial.com/)
 + `Graph` :- A graph module made using `Python`
